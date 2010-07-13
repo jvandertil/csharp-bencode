@@ -1,0 +1,1 @@
+﻿Raw Encoding and Decoding classes based on: http://www.koders.com/info.aspx?c=ProjectInfo&pid=EFUBC4NRFLGM2DGB4TV6EA2WRD

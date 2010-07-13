@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BEncodeLib", "BEncodeLib\BEncodeLib.csproj", "{ED60AB6F-5211-4A6E-B026-938BBC5EA8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED60AB6F-5211-4A6E-B026-938BBC5EA8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED60AB6F-5211-4A6E-B026-938BBC5EA8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED60AB6F-5211-4A6E-B026-938BBC5EA8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED60AB6F-5211-4A6E-B026-938BBC5EA8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
